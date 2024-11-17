@@ -15,14 +15,15 @@
 ***
 ⚡ Key Projects
 
-E-Commerce Infrastructure
-Luxurious Products Platform
-Multi-branch deployment strategy across dev, test, UAT, and prod environments using Docker, Kubernetes, Jenkins, AWS, and Prometheus. Managed communication between frontend and backend servers using AWS Route 53 and CloudFront.
 
 AWS CI/CD Pipeline
 
 Fully automated CI/CD pipeline using AWS CodeCommit, CodeBuild, and CodeDeploy. Repository: AWS_Pipeline_Project.
 
+E-Commerce Infrastructure
+Luxurious Products Platform Multi-branch deployment strategy across dev, test, UAT, and prod environments using Docker, Kubernetes, Jenkins, AWS, and Prometheus. Managed communication between frontend and backend servers using AWS Route 53 and CloudFront.
+
+***
 🔗 Connect with Me
 My Profile
 
