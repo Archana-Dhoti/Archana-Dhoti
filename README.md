@@ -14,7 +14,7 @@
 
 ***
 ## ⚡ Key Projects
-- **jenkins CI/CD Pipeline
+- jenkins CI/CD Pipeline
 
 Jenkins automates the software development lifecycle by triggering builds on code commits, running tests, deploying to environments, and continuously monitoring the process for efficient, reliable delivery.
 Repository:- https://github.com/Archana-Dhoti/css_oxer_k8s_pipeline.git
