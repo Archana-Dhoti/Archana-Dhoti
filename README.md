@@ -19,11 +19,11 @@
 Jenkins automates the software development lifecycle by triggering builds on code commits, running tests, deploying to environments, and continuously monitoring the process for efficient, reliable delivery.
 Repository:- https://github.com/Archana-Dhoti/css_oxer_k8s_pipeline.git
 
-- **AWS CI/CD Pipeline
+- AWS CI/CD Pipeline
 
 Automated CI/CD pipeline using AWS CodeCommit, CodeBuild, and CodeDeploy. Repository: AWS_Pipeline_Project.
 
-- **E-Commerce Infrastructure Project
+- E-Commerce Infrastructure Project
 Luxurious Products Platform Multi-branch deployment strategy across dev, test, UAT, and prod environments using Docker, Kubernetes, Jenkins, AWS, and Prometheus. Managed communication between frontend and backend servers using AWS Route 53 and CloudFront.
 
 ***
