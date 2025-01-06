@@ -1,7 +1,10 @@
 ## Hello Everyone, I'm Archana!
 
 🚀 DevOps Engineer | Cloud Engineer | Linux Administrator | CI/CD Expert
-
+### 🌟 Certifications
+[![AWS Certified Solutions Architect – Associate](https://github.com/Shantanu20000/Shantanu20000/blob/main/aws-certified-solutions-architect-associate%20(1).png)](https://www.credly.com/badges/df71e6c4-807f-4228-a69b-80291c9c3d46/public_url)      Next One Comming Soon ...
+[![AWS Certified Solutions Architect – Associate](https://github.com/Shantanu20000/Shantanu20000/blob/main/aws-certified-solutions-architect-associate%20(1).png)](https://www.credly.com/badges/df71e6c4-807f-4228-a69b-80291c9c3d46/public_url)      Next One is Comming Soon ...
+https://github.com/Archana-Dhoti/Archana-Dhoti/blob/main/WhatsApp%20Image%202025-01-06%20at%208.00.02%20PM.jpeg
 ***
 ## 🖥️ Cloud Platforms & Services
 
