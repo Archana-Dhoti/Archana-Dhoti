@@ -4,7 +4,8 @@
 
 ***
 ### 🌟 Certifications
-[![AWS Certified Solutions Architect – Associate](https://github.com/Shantanu20000/Shantanu20000/blob/main/aws-certified-solutions-architect-associate%20(1).png)]https://www.credly.com/badges/fde5dca2-2052-49a5-afba-b49f46767f46      Next One is Comming Soon ...
+[![AWS Certified Solutions Architect – Associate](https://github.com/Shantanu20000/Shantanu20000/blob/main/aws-certified-solutions-architect-associate%20(1).png)] 
+https://www.credly.com/badges/fde5dca2-2052-49a5-afba-b49f46767f46      Next One is Comming Soon ...
 
 ***
 ## 🖥️ Cloud Platforms & Services
